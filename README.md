@@ -1,42 +1,33 @@
 # 👋 Olá, eu sou Paulo Henrique!
 
-🎓 Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e desenvolvimento web.  
-🚀 Atualmente, estou aprendendo **Angular** e **Spring Boot** para criar aplicações completas e modernas.  
-💡 Tenho interesse em **SaaS, sistemas de gerenciamento e aplicações web responsivas**.  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**.  
+💻 Apaixonado por tecnologia, desenvolvimento web e criação de sistemas completos.  
+🚀 Atualmente aprendendo **Angular** e **Spring Boot**.  
+💡 Interesse em **SaaS, sistemas de gerenciamento e aplicações web responsivas**.  
 
 ---
 
-## 🧰 Tecnologias que uso e estudo
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-</div>
+## 🛠 Tecnologias que uso e estudo
+- **Frontend:** Angular, HTML5, CSS3, JavaScript, TypeScript  
+- **Backend:** Java, Spring Boot  
+- **Banco de Dados:** MySQL  
+- **Outras ferramentas:** Git, GitHub, VS Code  
 
 ---
 
-## 📊 Estatísticas do GitHub
-<div align="center">
-
-![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=tokyonight)
-
-</div>
+## 🔭 Projetos em destaque
+- **Sistema de Gerenciamento de OS:** Desenvolvimento completo em Angular + Spring Boot  
+- **Aplicativo Busão na Mão:** Rastreamento de ônibus em tempo real, otimização de rotas e modo escuro  
+- **CINESOFT:** Sistema ERP para cinema, controle de venda de ingressos e assentos  
 
 ---
 
 ## 📫 Como me encontrar
-- 💼 [LinkedIn](SEU_LINKEDIN_AQUI)
-- ✉️ **paulohenrique007@gmail.com**
+- 💼 [LinkedIn](SEU_LINKEDIN_AQUI)  
+- ✉️ **paulohenrique007@gmail.com**  
 
 ---
 
-⭐ *"O aprendizado é um investimento que sempre rende os melhores juros." – Benjamin Franklin*
+## ⚡ Curiosidade
+> *"O aprendizado é um investimento que sempre rende os melhores juros." – Benjamin Franklin*
+
