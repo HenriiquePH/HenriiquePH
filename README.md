@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Paulo Henrique!
 
-🎓 Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia, desenvolvimento web e aprendizado constante.  
-🚀 Atualmente, estou aprendendo **Angular** e **Spring Boot** para desenvolver sistemas completos e modernos.  
+🎓 Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e desenvolvimento web.  
+🚀 Atualmente, estou aprendendo **Angular** e **Spring Boot** para criar aplicações completas e modernas.  
 💡 Tenho interesse em **SaaS, sistemas de gerenciamento e aplicações web responsivas**.  
 
 ---
@@ -20,10 +20,17 @@
 
 ---
 
-## 📊 GitHub Stats
-![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight)
+## 📊 Estatísticas do GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight)
+<div align="center">
+
+![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
