@@ -21,22 +21,21 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-
 <div align="center">
 
-![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=tokyonight)
 
 </div>
 
 ---
 
 ## 📫 Como me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com/in/SEU-LINKEDIN)
-- ✉️ **seuemail@exemplo.com**
+- 💼 [LinkedIn](SEU_LINKEDIN_AQUI)
+- ✉️ **paulohenrique007@gmail.com**
 
 ---
 
