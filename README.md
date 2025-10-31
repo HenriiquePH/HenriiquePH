@@ -22,7 +22,7 @@
 ---
 
 ## 📫 Como me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com/in/paulo-henrique-007/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/paulo-henrique-faria-moreira-950693218)  
 - ✉️ **paulohenrique007@gmail.com**  
 
 ---
