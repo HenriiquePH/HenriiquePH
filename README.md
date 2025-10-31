@@ -23,11 +23,10 @@
 ---
 
 ## 📫 Como me encontrar
-- 💼 [LinkedIn](SEU_LINKEDIN_AQUI)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/paulo-henrique-007/)  
 - ✉️ **paulohenrique007@gmail.com**  
 
 ---
 
 ## ⚡ Curiosidade
 > *"O aprendizado é um investimento que sempre rende os melhores juros." – Benjamin Franklin*
-
