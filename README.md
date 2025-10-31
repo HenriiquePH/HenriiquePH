@@ -3,7 +3,6 @@
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**.  
 💻 Apaixonado por tecnologia, desenvolvimento web e criação de sistemas completos.  
 🚀 Atualmente aprendendo **Angular** e **Spring Boot**.  
-💡 Interesse em **SaaS, sistemas de gerenciamento e aplicações web responsivas**.  
 
 ---
 
