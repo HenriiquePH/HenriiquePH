@@ -9,7 +9,7 @@
 ## 🛠 Tecnologias que uso e estudo
 - **Frontend:** Angular, HTML5, CSS3, JavaScript, TypeScript  
 - **Backend:** Java, Spring Boot  
-- **Banco de Dados:** MySQL  
+- **Banco de Dados:** MySQL/PostgreSQL/SQLServer/Analise de dados  
 - **Outras ferramentas:** Git, GitHub, VS Code  
 
 ---
@@ -23,7 +23,7 @@
 
 ## 📫 Como me encontrar
 - 💼 [LinkedIn](https://www.linkedin.com/in/paulo-henrique-faria-moreira-950693218)  
-- ✉️ **paulohenrique007@gmail.com**  
+- ✉️ **pffaria047@gmail.com**  
 
 ---
 
