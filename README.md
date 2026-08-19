@@ -15,10 +15,8 @@
 ---
 
 ## 🔭 Projetos em destaque
-- **Sistema de Gerenciamento de OS:** Desenvolvimento completo em Angular + Spring Boot  
-- **Aplicativo Busão na Mão:** Rastreamento de ônibus em tempo real, otimização de rotas e modo escuro  
-- **CINESOFT:** Sistema ERP para cinema, controle de venda de ingressos e assentos  
-
+- **Sistema de Gerenciamento de OS:** Desenvolvimento completo em Angular + Spring Boot
+  
 ---
 
 ## 📫 Como me encontrar
